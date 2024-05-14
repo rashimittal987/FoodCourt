@@ -1,1 +1,2 @@
-# FoodCourt
+# FoodCourt:-
+In crafting a problem statement for a food delivery app, consider addressing the pain points or challenges faced by users or stakeholders. Many existing platforms lack centralized and inclusive solutions, hindering the widespread adoption of sustainable practices and the achievement of Sustainable Development Goals (SDGs) related to environmental sustainability and responsible consumption.
